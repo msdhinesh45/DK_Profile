@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dhinesh Kumar and I'm a Frontend Developer, from India.</h2>
+<h2 align="left">Hi 👋! I'm **Dhinesh Kumar** and I'm a **Frontend Developer**, from **India**.</h2>
 
 ###
 
@@ -59,4 +59,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/msdhinesh45/msdhinesh45/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+
